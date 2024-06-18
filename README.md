@@ -7,7 +7,7 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
 ### Watch the Introduction Video
 
 [![Watch the video](./frontend/images/demo/Screenshot%202024-06-18%20221759.png)](https://www.youtube.com/watch?v=VIDEO_ID)
-  ![](./frontend/images/demo/Screenshot%202024-06-18%20194401.png)
+[](./frontend/images/demo/Screenshot%202024-06-18%20183714.png)
 ## What's New?
 
 ### User Authentication API Integration:
@@ -15,12 +15,12 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
 - Input Validation using Zod to ensure data integrity.
 - Password Hashing for enhanced security using bcrypt.
   
-
+  ![](./frontend/images/demo/Screenshot%202024-06-18%20194401.png)
   
 
 ### Features:
 
-[](./frontend/images/demo/Screenshot%202024-06-18%20183714.png)
+
 
 #### Sign-Up:
 - **URL:** `/signUp`
