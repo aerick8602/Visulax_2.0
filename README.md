@@ -18,7 +18,7 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
   ![](./frontend/images/demo/Screenshot%202024-06-18%20194401.png)
   
 
-### Endpoints:
+### Features:
 
 [](./frontend/images/demo/Screenshot%202024-06-18%20183714.png)
 
