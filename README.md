@@ -1,8 +1,9 @@
 # Visulax 2.0
 
-Welcome to **Visulax 2.0** - the ultimate platform for algorithm visualization, now with integrated user authentication!!🔏✨
+Welcome to **Visulax 2.0**
+- The ultimate platform for algorithm visualization, now with integrated user authentication!!🔏✨
 
-This is the updated version of the Visulax algorithm visualizer.Explore the previous version [here](https://github.com/aerick8602/Visulax-1.0).
+This is the updated version of the Visulax algorithm visualizer. Explore the previous version [here](https://github.com/aerick8602/Visulax-1.0).
 
 ### Live: https://visulax2.netlify.app
 
