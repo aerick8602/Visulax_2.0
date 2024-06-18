@@ -2,10 +2,12 @@ const BASE_URL = 'http://localhost:3000';
 
 const showLoader = () => {
     document.querySelector('.loader').style.display = 'block';
+    document.body.classList.add('blurred');
 };
 
 const hideLoader = () => {
     document.querySelector('.loader').style.display = 'none';
+    document.body.classList.remove('blurred');
 };
 
 const signup = async () => {
