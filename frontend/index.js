@@ -60,3 +60,8 @@ window.addEventListener('pageshow', function (event) {
         window.location.reload();
     }
 });
+
+document.addEventListener('DOMContentLoaded', function () {
+    // Hide the loader after the content has loaded
+    document.querySelector('.loader').style.display = 'none';
+});
