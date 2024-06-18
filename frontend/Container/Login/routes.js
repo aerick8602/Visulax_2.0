@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:3000';
+const BASE_URL = 'https://visulax-2-0.onrender.com';
 const signup = async () => {
     const name = document.querySelector('.name').value;
     const email = document.querySelector('.mail').value;
