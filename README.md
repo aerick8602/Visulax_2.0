@@ -6,7 +6,7 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
 
 ### Watch the Introduction Video
 
-![](./frontend/images/demo/Visulax%20-%20Google%20Chrome%202024-06-18%2019-32-47.mp4)
+[![Watch the video](./frontend/images/demo/Screenshot%202024-06-18%20221759.png)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 ## What's New?
 
@@ -15,10 +15,12 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
 - Input Validation using Zod to ensure data integrity.
 - Password Hashing for enhanced security using bcrypt.
   
-  ![](./frontend/images/demo/Screenshot%202024-06-18%20194401.png) 
-
+  ![](./frontend/images/demo/Screenshot%202024-06-18%20194401.png)
+  
 
 ### Endpoints:
+
+[](./frontend/images/demo/Screenshot%202024-06-18%20183714.png)
 
 #### Sign-Up:
 - **URL:** `/signUp`
@@ -36,6 +38,7 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
     - **User Already Exists:** `{ "msg": "User Already Exist" }`
     - **Validation Error:** `{ "msg": "Password must contain at least one uppercase letter and one number" }`
 
+[](./frontend/images/demo/Screenshot%202024-06-18%20183811.png)
 
 #### Sign-In:
 - **URL:** `/signIn`
@@ -52,9 +55,9 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
     - **Wrong Password:** `{ "msg": "Wrong password" }`
     - **User Not Found:** `{ "msg": "User not found" }`
 
-[](./frontend/images/demo/Screenshot%202024-06-18%20183811.png)
+
  
-[](./frontend/images/demo/Screenshot%202024-06-18%20183714.png)
+
 
 ## Usage
 
