@@ -14,6 +14,7 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
 - **Sign-Up** and **Sign-In** functionalities.
 - Input Validation using Zod to ensure data integrity.
 - Password Hashing for enhanced security using bcrypt.
+  
   ![](./frontend/images/demo/Screenshot%202024-06-18%20194401.png) 
 
 
@@ -34,6 +35,7 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
     - **Success:** `{ "msg": "Sign Up Successful" }`
     - **User Already Exists:** `{ "msg": "User Already Exist" }`
     - **Validation Error:** `{ "msg": "Password must contain at least one uppercase letter and one number" }`
+  
 [](./frontend/images/demo/Screenshot%202024-06-18%20183714.png)
 
 #### Sign-In:
