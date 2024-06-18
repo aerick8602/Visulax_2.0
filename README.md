@@ -35,8 +35,7 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
     - **Success:** `{ "msg": "Sign Up Successful" }`
     - **User Already Exists:** `{ "msg": "User Already Exist" }`
     - **Validation Error:** `{ "msg": "Password must contain at least one uppercase letter and one number" }`
-  
-[](./frontend/images/demo/Screenshot%202024-06-18%20183714.png)
+    - [](./frontend/images/demo/Screenshot%202024-06-18%20183714.png)
 
 #### Sign-In:
 - **URL:** `/signIn`
@@ -52,7 +51,7 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
     - **Success:** `{ "msg": "Signing in successfully" }`
     - **Wrong Password:** `{ "msg": "Wrong password" }`
     - **User Not Found:** `{ "msg": "User not found" }`
-[](./frontend/images/demo/Screenshot%202024-06-18%20183811.png)
+    - [](./frontend/images/demo/Screenshot%202024-06-18%20183811.png)
 
 ## Usage
 
