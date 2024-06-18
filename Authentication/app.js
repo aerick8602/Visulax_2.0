@@ -8,7 +8,9 @@ const { mongoDBURL, PORT } = require('./connection/mongoose');
 
 app.use(cors());
 app.use(express.json());
-
+app.get('/', (req, res) => {
+    return res.status(200).send("Hello fork, Welcome to Visulax 🤩🤩");
+});
 app.post('/signUp', signUp);
 app.post('/signIn', signIn);
 
