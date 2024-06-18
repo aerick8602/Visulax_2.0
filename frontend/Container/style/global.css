@@ -1,0 +1,9 @@
+.custom-popup {
+    border-radius: 20px;
+    background: #000;
+}
+
+.swal2-image {
+    margin: 2px 2px 2px 2px !important;
+    border-radius: 20px !important;
+}
