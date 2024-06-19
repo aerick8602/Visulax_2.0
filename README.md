@@ -14,7 +14,10 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
 - Input Validation using Zod to ensure data integrity.
 - Password Hashing for enhanced security using bcrypt.
 
-  ![](./frontend/images/demo/Screenshot%202024-06-18%20194401.png) 
+  ![](./frontend/images/demo/Screenshot%202024-06-18%20194401.png)
+  
+### Enhanced Responsiveness
+ Visulax 2.0 is highly responsive, ensuring a seamless user experience across various devices. ![](./frontend/images/demo/android.jpeg)
 
 
 ### Endpoints:
