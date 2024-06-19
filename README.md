@@ -4,8 +4,7 @@ Welcome to **Visulax 2.0** - the ultimate platform for algorithm visualization, 
 
 This is the updated version of the Visulax algorithm visualizer.Explore the previous version [here](https://github.com/aerick8602/Visulax-1.0).
 
-### Live Preview
-
+### Live Preview https://visulax2.netlify.app
 ![](./frontend/images/demo/Screenshot%202024-06-18%20221759.png)
 
 ## What's New?
