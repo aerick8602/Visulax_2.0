@@ -17,25 +17,16 @@ This is the updated version of the Visulax algorithm visualizer. Explore the pre
 
 ![](./frontend/images/demo/Screenshot%202024-06-18%20194401.png)
 
- ### Enhanced Responsiveness
-Visulax 2.0 is highly responsive, ensuring a seamless user experience across various devices.
-
 ### Enhanced Responsiveness
 Visulax 2.0 is highly responsive, ensuring a seamless user experience across various devices.
 
-### Enhanced Responsiveness
-Visulax 2.0 is highly responsive, ensuring a seamless user experience across various devices.
-
-<div style="display: flex; flex-direction: row; justify-content: space-evenly; flex-wrap: wrap;">
-    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.13.31 PM.jpeg" style="height: 500px; margin-right: 35px; margin-bottom: 35px;">
-    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.31 PM.jpeg" style="height: 500px; margin-right: 35px; margin-bottom: 35px;">
-    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.40 PM.jpeg" style="height: 500px; margin-right: 35px; margin-bottom: 35px;">
-    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.49 PM.jpeg" style="height: 500px; margin-right: 35px; margin-bottom: 35px;">
-    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.50.32 PM.jpeg" style="height: 500px; margin-right: 35px; margin-bottom: 35px;">
+<div style="display: flex; flex-direction: row; justify-content:space-evenly; flex-wrap: wrap; gap:35px;">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.13.31 PM.jpeg" style="height: 510px;">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.31 PM.jpeg" style="height: 510px;">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.40 PM.jpeg" style="height: 510px;">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.49 PM.jpeg" style="height: 510px;">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.50.32 PM.jpeg" style="height: 510px;">
 </div>
-
-
-
 
 ### Endpoints:
 
@@ -55,7 +46,7 @@ Visulax 2.0 is highly responsive, ensuring a seamless user experience across var
     - **User Already Exists:** `{ "msg": "User Already Exist" }`
     - **Validation Error:** `{ "msg": "Password must contain at least one uppercase letter and one number" }`
 
-  <img src="./frontend/images/demo/Screenshot%202024-06-18%20183714.png" alt="Sign-Up Endpoint" width="600">
+  <img src="./frontend/images/demo/Screenshot%202024-06-18%20183714.png" alt="Sign-Up Endpoint" width="500">
 
 #### Sign-In:
 - **URL:** `/signIn`
@@ -72,7 +63,7 @@ Visulax 2.0 is highly responsive, ensuring a seamless user experience across var
     - **Wrong Password:** `{ "msg": "Wrong password" }`
     - **User Not Found:** `{ "msg": "User not found" }`
 
-  <img src="./frontend/images/demo/Screenshot%202024-06-18%20183811.png" alt="Sign-In Endpoint" width="600">
+  <img src="./frontend/images/demo/Screenshot%202024-06-18%20183811.png" alt="Sign-In Endpoint" width="500">
 
 ## Usage
 
