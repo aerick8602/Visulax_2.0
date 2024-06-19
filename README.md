@@ -2,10 +2,11 @@
 
 Welcome to **Visulax 2.0** - the ultimate platform for algorithm visualization, now with integrated user authentication!!🔏✨
 
-This is the updated version of the Visulax algorithm visualizer.Explore the previous version [here](https://github.com/aerick8602/Visulax-1.0).
+This is the updated version of the Visulax algorithm visualizer. Explore the previous version [here](https://github.com/aerick8602/Visulax-1.0).
 
 ### Live Preview https://visulax2.netlify.app
-![](./frontend/images/demo/Screenshot%202024-06-18%20221759.png)
+
+<img src="./frontend/images/demo/Screenshot%202024-06-18%20221759.png" alt="Visulax 2.0 Demo" width="800">
 
 ## What's New?
 
@@ -14,11 +15,12 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
 - Input Validation using Zod to ensure data integrity.
 - Password Hashing for enhanced security using bcrypt.
 
-  ![](./frontend/images/demo/Screenshot%202024-06-18%20194401.png)
-  
-### Enhanced Responsiveness
- Visulax 2.0 is highly responsive, ensuring a seamless user experience across various devices. ![](./frontend/images/demo/android.jpeg)
+  <img src="./frontend/images/demo/Screenshot%202024-06-18%20194401.png" alt="Sign-Up Page" width="400">
 
+### Enhanced Responsiveness
+Visulax 2.0 is highly responsive, ensuring a seamless user experience across various devices.
+
+<img src="./frontend/images/demo/android.jpeg" alt="Responsive Devices" width="400" height="auto">
 
 ### Endpoints:
 
@@ -37,7 +39,8 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
     - **Success:** `{ "msg": "Sign Up Successful" }`
     - **User Already Exists:** `{ "msg": "User Already Exist" }`
     - **Validation Error:** `{ "msg": "Password must contain at least one uppercase letter and one number" }`
-    [](./frontend/images/demo/Screenshot%202024-06-18%20183714.png)
+
+  <img src="./frontend/images/demo/Screenshot%202024-06-18%20183714.png" alt="Sign-Up Endpoint" width="400">
 
 #### Sign-In:
 - **URL:** `/signIn`
@@ -53,12 +56,13 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
     - **Success:** `{ "msg": "Signing in successfully" }`
     - **Wrong Password:** `{ "msg": "Wrong password" }`
     - **User Not Found:** `{ "msg": "User not found" }`
-[](./frontend/images/demo/Screenshot%202024-06-18%20183811.png)
+
+  <img src="./frontend/images/demo/Screenshot%202024-06-18%20183811.png" alt="Sign-In Endpoint" width="400">
 
 ## Usage
 
 - Navigate through different algorithm visualizations using the links provided on the main page.
-- **Click on "Login" to access the admin panel*.
+- **Click on "Login" to access the admin panel**.
 - Explore different sorting, searching, tree, graph, sieve of Eratosthenes, and recursion algorithms.
 - Follow the instructions on each page to see how the algorithms work in real-time.
 
