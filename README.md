@@ -8,9 +8,7 @@ This is the updated version of the Visulax algorithm visualizer. Explore the pre
 
 ![](./frontend/images/demo/Screenshot%202024-06-18%20221759.png)_
 
-<img src="" alt="Visulax 2.0 Demo" width="800">
-
-## What's New?
+# What's New?
 
 ### User Authentication API Integration:
 - **Sign-Up** and **Sign-In** functionalities.
@@ -25,13 +23,17 @@ Visulax 2.0 is highly responsive, ensuring a seamless user experience across var
 ### Enhanced Responsiveness
 Visulax 2.0 is highly responsive, ensuring a seamless user experience across various devices.
 
-<div style="display: flex; flex-direction: row; justify-content:space-evenly; flex-wrap: wrap; gap:35px;">
-    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.13.31 PM.jpeg" style="height: 500px;">
-    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.31 PM.jpeg" style="height: 500px;">
-    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.40 PM.jpeg" style="height: 500px;">
-    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.49 PM.jpeg" style="height: 500px;">
-    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.50.32 PM.jpeg" style="height: 500px;">
+### Enhanced Responsiveness
+Visulax 2.0 is highly responsive, ensuring a seamless user experience across various devices.
+
+<div style="display: flex; flex-direction: row; justify-content: space-evenly; flex-wrap: wrap;">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.13.31 PM.jpeg" style="height: 500px; margin-right: 35px; margin-bottom: 35px;">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.31 PM.jpeg" style="height: 500px; margin-right: 35px; margin-bottom: 35px;">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.40 PM.jpeg" style="height: 500px; margin-right: 35px; margin-bottom: 35px;">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.49 PM.jpeg" style="height: 500px; margin-right: 35px; margin-bottom: 35px;">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.50.32 PM.jpeg" style="height: 500px; margin-right: 35px; margin-bottom: 35px;">
 </div>
+
 
 
 
