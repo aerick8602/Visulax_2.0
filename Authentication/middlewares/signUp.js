@@ -12,7 +12,7 @@ async function signUp(req, res) {
         // Check if the user already exists
         const exist = await Users.findOne({ email });
         if (exist) {
-            return res.status(400).json({ msg: "User Already Exists" });
+            return res.status(400).json({ msg: "User already exists. Please choose a different username or email." });
         }
 
         // Hash the password
