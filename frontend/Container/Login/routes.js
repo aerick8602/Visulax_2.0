@@ -26,6 +26,8 @@ const signup = async () => {
 
         console.log('Details uploaded successfully', response.data);
         alert('Sign Up Successful');
+
+        // Redirect to new page
         window.location.href = `../../index.html?email=${email}`;
 
     } catch (error) {
@@ -35,7 +37,7 @@ const signup = async () => {
             : error.message;
         alert(`Sign Up Failed: ${errorMsg}`);
     } finally {
-        hideLoader();
+        
     }
 };
 
@@ -53,6 +55,8 @@ const signin = async () => {
 
         console.log('Signing in successfully', response.data);
         alert('Sign In Successful');
+
+        // Redirect to new page
         window.location.href = `../../index.html?email=${email}`;
 
     } catch (error) {
@@ -62,6 +66,9 @@ const signin = async () => {
             : error.message;
         alert(`Sign In Failed: ${errorMsg}`);
     } finally {
-        hideLoader();
+        
     }
 };
+
+
+window.addEventListener('beforeunload', showLoader);
