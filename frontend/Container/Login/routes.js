@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:3000';
+const BASE_URL = 'https://visulax-2-0.onrender.com';
 
 const showLoader = () => {
     document.querySelector('.loader').style.display = 'block';
