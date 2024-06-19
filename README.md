@@ -23,11 +23,11 @@ This is the updated version of the Visulax algorithm visualizer. Explore the pre
 Visulax 2.0 is highly responsive, ensuring a seamless user experience across various devices.
 
 <div style="display:flex; flex-direction:row; justify-content:flex-start; flex-wrap:wrap; gap:"10";>
-    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.13.31 PM.jpeg" width="210" height="600">
-    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.31 PM.jpeg" width="210" height="600">
-    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.40 PM.jpeg" width="210" height="600">
-    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.49 PM.jpeg" width="210" height="600">
-    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.50.32 PM.jpeg" width="210" height="600">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.13.31 PM.jpeg"  height="500">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.31 PM.jpeg"  height="500">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.40 PM.jpeg"  height="500">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.49 PM.jpeg"  height="500">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.50.32 PM.jpeg"  height="500">
 </div>
 
 
