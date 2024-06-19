@@ -20,10 +20,11 @@ This is the updated version of the Visulax algorithm visualizer. Explore the pre
 ![](./frontend/images/demo/Screenshot%202024-06-18%20194401.png)
 
  ### Enhanced Responsiveness
-<div style="display: flex; flex-direction: row; justify-content=space-evenly;">
+<div style="display: flex; flex-direction: row; justify-content: space-evenly;">
   <p>Visulax 2.0 is highly responsive, ensuring a seamless user experience across various devices.</p>
   <img src="./frontend/images/demo/android.jpeg" alt="Responsive Devices" width="200" height="auto">
 </div>
+
 
 
 ### Endpoints:
