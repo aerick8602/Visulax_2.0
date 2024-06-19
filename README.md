@@ -20,10 +20,16 @@ This is the updated version of the Visulax algorithm visualizer. Explore the pre
 ![](./frontend/images/demo/Screenshot%202024-06-18%20194401.png)
 
  ### Enhanced Responsiveness
-<div style="display: flex; flex-direction: row; justify-content: space-evenly;">
-  <p>Visulax 2.0 is highly responsive, ensuring a seamless user experience across various devices.</p>
-  <img src="./frontend/images/demo/android.jpeg" alt="Responsive Devices" width="200" height="auto">
+Visulax 2.0 is highly responsive, ensuring a seamless user experience across various devices.
+
+<div style="display:flex; flex-direction:row; justify-content:flex-start;">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.13.31 PM.jpeg" width="200">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.31 PM.jpeg" width="200">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.40 PM.jpeg" width="200">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.49 PM.jpeg" width="200">
+    <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.50.32 PM.jpeg" width="200">
 </div>
+
 
 
 
