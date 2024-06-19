@@ -6,6 +6,7 @@ This is the updated version of the Visulax algorithm visualizer.Explore the prev
 
 ### Live Preview
 
+![](./frontend/images/demo/Screenshot%202024-06-18%20221759.png)
 
 ## What's New?
 
