@@ -6,7 +6,9 @@ This is the updated version of the Visulax algorithm visualizer. Explore the pre
 
 ### Live Preview https://visulax2.netlify.app
 
-<img src="./frontend/images/demo/Screenshot%202024-06-18%20221759.png" alt="Visulax 2.0 Demo" width="800">
+![](./frontend/images/demo/Screenshot%202024-06-18%20221759.png)_
+
+<img src="" alt="Visulax 2.0 Demo" width="800">
 
 ## What's New?
 
@@ -15,12 +17,14 @@ This is the updated version of the Visulax algorithm visualizer. Explore the pre
 - Input Validation using Zod to ensure data integrity.
 - Password Hashing for enhanced security using bcrypt.
 
-  <img src="./frontend/images/demo/Screenshot%202024-06-18%20194401.png" alt="Sign-Up Page" width="400">
+![](./frontend/images/demo/Screenshot%202024-06-18%20194401.png)
 
-### Enhanced Responsiveness
-Visulax 2.0 is highly responsive, ensuring a seamless user experience across various devices.
+ ### Enhanced Responsiveness
+<div style="display: flex; flex-direction: row; justify-content=space-evenly;">
+  <p>Visulax 2.0 is highly responsive, ensuring a seamless user experience across various devices.</p>
+  <img src="./frontend/images/demo/android.jpeg" alt="Responsive Devices" width="200" height="auto">
+</div>
 
-<img src="./frontend/images/demo/android.jpeg" alt="Responsive Devices" width="400" height="auto">
 
 ### Endpoints:
 
@@ -40,7 +44,7 @@ Visulax 2.0 is highly responsive, ensuring a seamless user experience across var
     - **User Already Exists:** `{ "msg": "User Already Exist" }`
     - **Validation Error:** `{ "msg": "Password must contain at least one uppercase letter and one number" }`
 
-  <img src="./frontend/images/demo/Screenshot%202024-06-18%20183714.png" alt="Sign-Up Endpoint" width="400">
+  <img src="./frontend/images/demo/Screenshot%202024-06-18%20183714.png" alt="Sign-Up Endpoint" width="600">
 
 #### Sign-In:
 - **URL:** `/signIn`
@@ -57,7 +61,7 @@ Visulax 2.0 is highly responsive, ensuring a seamless user experience across var
     - **Wrong Password:** `{ "msg": "Wrong password" }`
     - **User Not Found:** `{ "msg": "User not found" }`
 
-  <img src="./frontend/images/demo/Screenshot%202024-06-18%20183811.png" alt="Sign-In Endpoint" width="400">
+  <img src="./frontend/images/demo/Screenshot%202024-06-18%20183811.png" alt="Sign-In Endpoint" width="600">
 
 ## Usage
 
