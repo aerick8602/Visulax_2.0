@@ -25,7 +25,7 @@ Visulax 2.0 is highly responsive, ensuring a seamless user experience across var
 ### Enhanced Responsiveness
 Visulax 2.0 is highly responsive, ensuring a seamless user experience across various devices.
 
-<div style="display: flex; flex-direction: row; justify-content: flex-start; flex-wrap: wrap; gap: 25px;">
+<div style="display: flex; flex-direction: row; justify-content:space-evenly; flex-wrap: wrap; gap: 25px;">
     <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.13.31 PM.jpeg" style="height: 500px;">
     <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.31 PM.jpeg" style="height: 500px;">
     <img src="./frontend/images/demo/WhatsApp Image 2024-06-19 at 2.43.40 PM.jpeg" style="height: 500px;">
