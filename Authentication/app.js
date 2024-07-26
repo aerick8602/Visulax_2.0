@@ -25,3 +25,8 @@ mongoose.connect(mongoDBURL, {
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });
+
+// Default route
+app.get('/', (req, res) => {
+    return res.status(200).send("Hello fork, Welcome to Visulax 🤩🤩");
+});
